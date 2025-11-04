@@ -1,2 +1,3 @@
 "Hello Git!" hello world!
 "This is new content for stash test" 
+"This line is from master" 
